@@ -2,4 +2,4 @@ import random
 
 OPERATORS = []
 MIN_OPERAND
-MAX
+MAX_
