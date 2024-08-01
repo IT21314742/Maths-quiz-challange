@@ -6,4 +6,4 @@ MAX_OPERAND = 12
 
 def generate_problem():
     left = random.randint(MIN_OPERAND, MAX_OPERAND)
-    right = 
+    right = random
