@@ -1,5 +1,5 @@
 import random
 
 OPERATORS = []
-MIN_OPERAND 
+MIN_OPERAND =
 MAX_OPERAND
