@@ -1,3 +1,3 @@
 import random
 
-OPERATORS = 
+OPERATORS = []
