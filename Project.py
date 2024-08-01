@@ -1,4 +1,4 @@
 import random
 
 OPERATORS = []
-MIN
+MIN_
