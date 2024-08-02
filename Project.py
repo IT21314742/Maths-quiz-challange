@@ -8,7 +8,7 @@ def generate_problem():
     left = random.randint(MIN_OPERAND, MAX_OPERAND)
     right = random.randint(MIN_OPERAND, MAX_OPERAND)
 
-    expr = str(left) + " " + operator + " " + str(r)
+    expr = str(left) + " " + operator + " " + str(ri)
     print(expr)
     return expr
 
