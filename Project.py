@@ -9,7 +9,7 @@ def generate_problem():
     right = random.randint(MIN_OPERAND, MAX_OPERAND)
 
     expr = str(left) + " " + operator + " " + str(right)
-    print(expr)
+    a(expr)
     return expr
 
 
