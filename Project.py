@@ -9,4 +9,4 @@ def generate_problem():
     right = random.randint(MIN_OPERAND, MAX_OPERAND)
 
     expr = str(left) + " " + right + " " + str(operator)
-    print
+    print()
