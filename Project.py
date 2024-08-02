@@ -11,3 +11,4 @@ def generate_problem():
     expr = str(left) + " " + right + " " + str(operator)
     print(expr)
     return expr
+
