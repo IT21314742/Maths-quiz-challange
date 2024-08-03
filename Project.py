@@ -14,4 +14,4 @@ def generate_problem():
 
 
 expr, generate_problem()
-print(expr)
+print(expr,)
