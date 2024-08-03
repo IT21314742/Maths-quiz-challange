@@ -3,7 +3,7 @@ import random
 OPERATORS = ["+", "-",  "*"]
 MIN_OPERAND = 3
 MAX_OPERAND = 12
-TOTAL_
+TOTAL_PROBLEMS
 
 def generate_problem():
     left = random.randint(MIN_OPERAND, MAX_OPERAND)
