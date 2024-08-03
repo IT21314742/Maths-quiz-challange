@@ -14,4 +14,3 @@ def generate_problem():
     return expr, answer
 
 
-e
