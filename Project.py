@@ -15,4 +15,3 @@ def generate_problem():
 
 
 expr, generate_problem()
-p
