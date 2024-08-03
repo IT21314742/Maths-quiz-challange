@@ -14,4 +14,4 @@ def generate_problem():
     return expr, answer
 
 
-expr, generate_problem(
+expr, generate_problem
