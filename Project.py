@@ -15,4 +15,4 @@ def generate_problem():
 
 
 expr, generate_problem()
-print(expr, answ
+print(expr, ans
