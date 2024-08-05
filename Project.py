@@ -13,4 +13,4 @@ def generate_problem():
     answer = eval(expr)
     return expr, answer
 
-for i in range(TOTAL_PROBLEMS)
+for i in range(TOTAL_PROBLEMS):
