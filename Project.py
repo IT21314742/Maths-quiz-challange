@@ -6,7 +6,7 @@ MAX_OPERAND = 12
 TOTAL_PROBLEMS = 10
 
 def generate_problem():
-    left = random.randint(MIN_OPERAND, MAX_OPERAND)
+    left = .randint(MIN_OPERAND, MAX_OPERAND)
     right = random.randint(MIN_OPERAND, MAX_OPERAND)
 
     expr = str(left) + " " + operator + " " + str(right)
@@ -16,4 +16,4 @@ def generate_problem():
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
     print("Problem #" + str(i +1) + ":")
-    
+
