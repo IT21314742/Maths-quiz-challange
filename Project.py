@@ -15,4 +15,4 @@ def generate_problem():
 
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
-    print("Problem #" + (i +1)
+    print("Problem #" + s(i +1)
