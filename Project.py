@@ -17,6 +17,7 @@ def generate_problem():
 
 wrong = 0
 
+
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
     while True:
