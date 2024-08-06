@@ -18,6 +18,7 @@ def generate_problem():
 wrong = 0
 input("Press enter to start!")
 
+
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
     while True:
