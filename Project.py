@@ -15,6 +15,6 @@ def generate_problem():
 
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
-    guess = input("Problem #" + str(i +1) + ":" + expr +)
+    guess = input("Problem #" + str(i +1) + ":" + expr + "")
 
 
