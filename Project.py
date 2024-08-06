@@ -17,6 +17,6 @@ for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
     while True:
     guess = input("Problem #" + str(i +1) + ":" + expr + " = ")
-    if guess =
+    if guess ==
 
 
