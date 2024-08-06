@@ -1,5 +1,5 @@
 import random
-import 
+import time
 
 OPERATORS = ["+", "-",  "*"]
 MIN_OPERAND = 3
