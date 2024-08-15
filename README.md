@@ -2,10 +2,11 @@
 
 ## Overview
  an interactive and educational Python project designed to test and improve your mathematical skills. This project presents users with a series of math questions ranging from basic arithmetic to more challenging problems, offering a fun and engaging way to sharpen their math abilities.  Whether you're a student, teacher, or math enthusiast, this quiz challenge is a great tool for learning and practice.
+ 
 ## Features
 - Multiple difficulty levels
 - Randomized math questions
-- Score tracking
+- Score tracking -  Keep track of your performance with a scoring system that displays your results at the end of the quiz.
 - Time Tracking
 
 ## Installation
