@@ -21,6 +21,8 @@
 2 Run the game:
    python quiz_challenge.py
 
+ **How to Use:**
+
 How to Play
 - Select difficulty.
 - Answer the questions.
