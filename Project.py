@@ -33,7 +33,7 @@ end_time = time.time()
 total_time = end_time - start_time
 
 print("----------")
-print("Nice work! You finished in", total_time)
+print("Nice work! You finished in", total_time, )
 
 
 
