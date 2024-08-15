@@ -29,6 +29,11 @@
 
 How to Play
 - Select difficulty.
+
+
+
+
+  _We welcome contributions to the Maths Quiz Challenge project. Whether it's adding new question types, improving the interface, or optimizing the code, your contributions are greatly appreciated._
 - Answer the questions.
 - Aim to improve your score!
 
