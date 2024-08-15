@@ -17,3 +17,8 @@ A Python quiz game designed to challenge your math skills. Choose from different
 2 Run the game:
    python quiz_challenge.py
 
+How to Play
+- Select difficulty.
+- Answer the questions.
+- Aim to improve your score!
+
