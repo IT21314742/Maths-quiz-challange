@@ -7,3 +7,4 @@ A Python quiz game designed to challenge your math skills. Choose from different
 - Multiple difficulty levels
 - Randomized math questions
 - Score tracking
+- Time Tracking
