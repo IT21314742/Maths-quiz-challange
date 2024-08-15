@@ -28,7 +28,7 @@ for i in range(TOTAL_PROBLEMS):
         wrong += 1
 
 print("----------")
-print("Nice ")
+print("Nice work")
 
 
 
