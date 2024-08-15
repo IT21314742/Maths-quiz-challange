@@ -29,7 +29,7 @@ for i in range(TOTAL_PROBLEMS):
             break
         wrong += 1
 
-end_time = 
+end_time = time
 
 print("----------")
 print("Nice work!")
