@@ -13,3 +13,6 @@ A Python quiz game designed to challenge your math skills. Choose from different
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/Maths-quiz-challenge.git
+
+2 Run the game:
+
