@@ -1,2 +1,4 @@
-# Maths-quiz-challange
- Maths-quiz-challange
+# Maths Quiz Challenge
+
+## Overview
+A Python quiz game designed to challenge your math skills. Choose from different difficulty levels, solve randomized problems, and track your score.
