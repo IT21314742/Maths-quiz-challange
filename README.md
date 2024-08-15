@@ -8,3 +8,8 @@ A Python quiz game designed to challenge your math skills. Choose from different
 - Randomized math questions
 - Score tracking
 - Time Tracking
+
+## Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/Maths-quiz-challenge.git
