@@ -25,6 +25,7 @@
  1. Clone the repository to access the source code.
  2. Run the Python script to start the Maths Quiz Challenge.
  3. Select your difficulty level and begin answering questions.
+ 4. Receive feedback on each answer and track your score as you progress through the quiz.
 
 How to Play
 - Select difficulty.
