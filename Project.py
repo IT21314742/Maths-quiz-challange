@@ -19,7 +19,7 @@ wrong = 0
 input("Press enter to start!")
 print("---------")
 
-start_time = time
+start_time = time.
 
 for i in range(TOTAL_PROBLEMS):
     expr, answer = generate_problem()
