@@ -1,7 +1,7 @@
 # Maths Quiz Challenge
 
 ## Overview
- an interactive and educational Python project designed to test and improve your mathematical skills.
+ an interactive and educational Python project designed to test and improve your mathematical skills. This project presents users with a series of math questions ranging from basic arithmetic to more challenging problems, offering a fun and engaging way to sharpen their math abilities. 
 ## Features
 - Multiple difficulty levels
 - Randomized math questions
