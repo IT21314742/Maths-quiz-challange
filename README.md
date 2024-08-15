@@ -14,6 +14,10 @@ A Python quiz game designed to challenge your math skills. Choose from different
    ```bash
    git clone https://github.com/yourusername/Maths-quiz-challenge.git
 
+## Technologies Used
+- **Python:** The core programming language used to develop the application.
+- **Random Module:** For generating random math problems.
+
 2 Run the game:
    python quiz_challenge.py
 
