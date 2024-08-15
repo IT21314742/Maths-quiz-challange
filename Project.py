@@ -30,7 +30,7 @@ for i in range(TOTAL_PROBLEMS):
         wrong += 1
 
 end_time = time.time()
-total_
+total_time
 
 print("----------")
 print("Nice work!")
