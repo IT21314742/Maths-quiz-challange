@@ -23,7 +23,7 @@
 
  **How to Use:**
  1. Clone the repository to access the source code.
-
+ 2. Run the Python script to start the Maths Quiz Challenge.
 
 How to Play
 - Select difficulty.
