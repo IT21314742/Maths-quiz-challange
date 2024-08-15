@@ -22,6 +22,8 @@
    python quiz_challenge.py
 
  **How to Use:**
+ 1. Clone the repository to access the source code.
+
 
 How to Play
 - Select difficulty.
